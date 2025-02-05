@@ -26,3 +26,5 @@ Neural Network and Trainer (neuralnetwork.py): Contains the dueling network mode
 Agent (agent.py): Integrates the neural network with game interactions, state representation, and decision-making.
 play_game.ai.py: Runs the game with the AI agent using a pre-trained model.
 play_game_human.py: Runs the game in human-controlled mode.
+
+you know how to run this project :)
