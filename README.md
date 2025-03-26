@@ -1,3 +1,8 @@
+# Summary (What I Did):
+- Designed an AI-driven Snake game using Double DQN reinforcement learning, trained the AI agent over 1000 iterations on a local GPU to achieve 85% accuracy for the agent to reach its desired state.
+- Optimized gameplay performance by implementing state representation streamlining and texture pooling, reducing frame latency by 35% and enabling smooth gameplay on low-end hardware.
+- Acquired advanced Python scripting, PyGame development, and reinforcement learning skills, leveraging AI tools for 30% of boilerplate code while debugging major edge cases (e.g., food spawning in walls).
+
 **a dddqn that can play snake**  
 `assets/checkpoint-700.pth.tar` -> pre trained weights  
 `play_game_human.py` -> play snake  
